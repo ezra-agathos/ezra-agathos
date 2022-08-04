@@ -1,6 +1,6 @@
 - 🌎 Timezone: CST
 - 💻 Domain: Healthcare/Hospital IT
-- 📫 ezra@agathos.io
+- 📫 ezra@agathos.health
 - ⭐️ Areas of interest:
   - ETL and Data Eng Automation (Python)
   - Infrastructure and DevOps

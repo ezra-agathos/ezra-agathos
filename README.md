@@ -1,4 +1,4 @@
-- 🌎 Timezone: CST
+- 🌎 Timezone: EST
 - 💻 Domain: Healthcare/Hospital IT
 - 📫 ezra@agathos.health
 - ⭐️ Areas of interest:
